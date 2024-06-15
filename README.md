@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/fcyt8469j22ue1po?svg=true)](https://ci.appveyor.com/project/patvit/store-func-fc)
+[![Build status](https://ci.appveyor.com/api/projects/status/t7md81kaa40k99gv?svg=true)](https://ci.appveyor.com/project/patvit/store-class-cc)
 
 
 # React + Vite
